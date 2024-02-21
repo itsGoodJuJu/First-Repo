@@ -7,6 +7,7 @@
 ## Favorite Artists:
 - Seventeen
 - Aurora
+- Twice
 - Beyonce
 - Lana Del Rey
 
@@ -14,11 +15,11 @@
 
 ### Why did I join this cohort: 
 ```
-I joined to expand my skillset and to keep up with the rapid evolution of technology. I want to make a change in my career path and find a job that I am passionate about.
+I joined this cohort to expand my skillset and to keep up with the rapid evolution of technology. I want to make a change in my career path and find a job that I am passionate about.
 ``` 
 
 ### Photo:
-![Justin Adams](IMG_6899.jpg)
+![Justin Adams](justinadams.jpg)
 
 ### Hobbies:
 1. Volleyball
