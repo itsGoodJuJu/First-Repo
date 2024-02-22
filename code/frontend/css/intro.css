@@ -20,3 +20,10 @@ h3{
     color:palevioletred;
 }
 
+.blue {
+    color: lightblue;
+}
+
+div > p {
+    font-weight: bold;
+}
