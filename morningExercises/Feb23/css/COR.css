@@ -2,7 +2,7 @@ h1 {
     text-align: center;
 }
 
-body > p {
+div > p {
     font-style: italic;
     font-weight: bold;
     text-align: right;
