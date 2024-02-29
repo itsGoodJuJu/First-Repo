@@ -1,0 +1,42 @@
+.justinFlex {
+    display: flex;
+    flex: 3;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.item1 {
+    width: 25%;
+    background-color: coral;
+    order: 1;
+    padding: 15px;
+}
+
+.item2 {
+    width: 25%;
+    background-color: darkmagenta;
+    order: 3;
+    padding: 15px;
+}
+
+.item3 {
+    width: 25%;
+    background-color: lightpink;
+    order: 2;
+    padding: 15px;
+}
+
+.item4 {
+    width: 25%;
+    background-color: chartreuse;
+    order: -1;
+    padding: 15px;
+}
+
+.item5 {
+    width: 25%;
+    background-color: cyan;
+    order: 5;
+    padding: 15px;
+}
