@@ -135,6 +135,7 @@ getBirthdates(userAccounts);
 //         //     console.log(false);
 //         // }
 
+//  Find a way to determine eligibility by specific date (1/20/2024) and specific birthdate
 //         if(currentYear - year > 35) {
 //             console.log(users[i].name + " is eligible to run for president.");
 //         } else {
