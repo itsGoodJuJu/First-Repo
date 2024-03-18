@@ -25,6 +25,7 @@ fetch('https://randomuser.me/api/?results=20')
                 phoneNumber: userDatabase[0].results[i].phone,
                 streetAddress: userDatabase[0].results[i].location.street.number + ' ' + userDatabase[0].results[i].location.street.name,
                 photo: userDatabase[0].results[i].picture.medium,
+                // maybe use bootstrap to get images to show
             };
             usersInfo.push(users);
             

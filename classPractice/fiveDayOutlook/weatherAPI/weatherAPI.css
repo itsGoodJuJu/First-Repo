@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: skyblue;
+    width: 600px;
+    height: 400px;
+}
+
+div > p {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
