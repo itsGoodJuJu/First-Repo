@@ -31,18 +31,23 @@ function getEmail() {
     let email = document.getElementById("email");
     let password = document.getElementById("password");
     
-    console.log("Email: ", email.value);
-    console.log('Password: ', password.value);
+    // console.log("Email: ", email.value);
+    // console.log('Password: ', password.value);
     // console.log('Profile: ', profile.value);
     
+    let isCorrect = false;
     for(i = 0; i <userInfo.length; i++) {
         if(password.value === userInfo[i].password && email.value === userInfo[i].email) {
-            console.log("Logged In :)");
+            isCorrect=true;
             break;
-        } else if (password.value !== userInfo[userInfo.length - 1].password || email.value !== userInfo[userInfo.length - 1].email) {
-            console.log("Failed >__<");
-        }
-        
+        } else {
+            isCorrect=false;
+        } 
     }
-
+    if (isCorrect===true) {
+        console.log("Logged In :)");
+    } else {
+        console.log("Failed >__<");
+        alert("Log-In Failed");
+    }
 }
