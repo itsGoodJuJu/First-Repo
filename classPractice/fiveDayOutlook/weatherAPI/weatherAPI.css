@@ -12,6 +12,11 @@ div {
 div > p {
     display: flex;
     justify-content: center;
+    margin: auto;
     /* align-items: center; */
+}
+
+body {
+    display: flex;
 }
 
