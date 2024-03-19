@@ -27,7 +27,6 @@ function onloadCall() {
             let cityName = data.location.name + ", " + data.location.region;
             let weatherDate = data.forecast.forecastday[i].date;
             let conditionImg = data.forecast.forecastday[i].day.condition.icon;
-            // let newConditionImg = conditionImg.replace("//", "https://");
             let highTemp = "High of: " + data.forecast.forecastday[i].day.maxtemp_f;
             let lowTemp = "Low of: " + data.forecast.forecastday[i].day.mintemp_f;
             let winds = "Wind Speed: " + data.forecast.forecastday[i].day.maxwind_mph + " mph";
@@ -45,8 +44,7 @@ function onloadCall() {
             let cityNameTag = document.createElement("p");
             let weatherDateTag = document.createElement("p");
             let conditionImgTag = document.createElement("img");
-            // newConditionImg.src = conditionImg;
-            // newConditionImg.setAttribute('src', iconURL);
+            conditionImgTag.src = conditionImg;
             let highTempTag = document.createElement("p");
             let lowTempTag = document.createElement("p");
             let windsTag = document.createElement("p");
