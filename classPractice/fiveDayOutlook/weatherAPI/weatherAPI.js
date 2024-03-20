@@ -26,6 +26,7 @@ function onloadCall() {
             //locating data in array
             let cityName = data.location.name + ", " + data.location.region;
             let weatherDate = data.forecast.forecastday[i].date;
+            let condition = data.forecast.forecastday[i].day.condition.text;
             let conditionImg = data.forecast.forecastday[i].day.condition.icon;
             let highTemp = "High of: " + data.forecast.forecastday[i].day.maxtemp_f;
             let lowTemp = "Low of: " + data.forecast.forecastday[i].day.mintemp_f;
@@ -43,6 +44,7 @@ function onloadCall() {
             // tags
             let cityNameTag = document.createElement("p");
             let weatherDateTag = document.createElement("p");
+            let conditionTag = document.createElement("p");
             let conditionImgTag = document.createElement("img");
             conditionImgTag.src = conditionImg;
             let highTempTag = document.createElement("p");
@@ -54,6 +56,7 @@ function onloadCall() {
             //Values(.innerText)
             cityNameTag.innerText= cityName;
             weatherDateTag.innerText = weatherDate;
+            conditionTag.innerText = condition;
             conditionImgTag.innerText = conditionImg;
             highTempTag.innerText = highTemp;
             lowTempTag.innerText = lowTemp;
@@ -66,6 +69,7 @@ function onloadCall() {
             //appendChild
             weatherContainer.appendChild(cityNameTag);
             weatherContainer.appendChild(weatherDateTag);
+            weatherContainer.appendChild(conditionTag);
             weatherContainer.appendChild(conditionImgTag);
             weatherContainer.appendChild(highTempTag);
             weatherContainer.appendChild(lowTempTag);
