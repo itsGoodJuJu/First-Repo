@@ -111,40 +111,40 @@ getBirthdates(userAccounts);
 
 
 
-// function getBirthdates(users) {
+function getBirthdates(users) {
 
-//     let i = 0;
-//     while(i < users.length) {
-//         let d = new Date(users[i].birthday)
-//         let today = new Date();
-//         // let nextDate = new Date(users[i+1].birthday)
+    let i = 0;
+    while(i < users.length) {
+        let d = new Date(users[i].birthday)
+        let today = new Date();
+        // let nextDate = new Date(users[i+1].birthday)
 
-//         let day = d.getDate();
-//         let month = d.getMonth()+1;
-//         let year = d.getFullYear();
+        let day = d.getDate();
+        let month = d.getMonth()+1;
+        let year = d.getFullYear();
 
-//         let currentDay = today.getDate();
-//         let currentMonth = today.getMonth()+1;
-//         let currentYear = today.getFullYear();
+        let currentDay = today.getDate();
+        let currentMonth = today.getMonth()+1;
+        let currentYear = today.getFullYear();
 
-//         // console.log(month + "/" + day + "/" + year);
+        // console.log(month + "/" + day + "/" + year);
 
-//         // if(d > nextDate) {
-//         //     console.log(true);
-//         // } else {
-//         //     console.log(false);
-//         // }
+        // if(d > nextDate) {
+        //     console.log(true);
+        // } else {
+        //     console.log(false);
+        // }
 
 //  Find a way to determine eligibility by specific date (1/20/2024) and specific birthdate
-//         if(currentYear - year > 35) {
-//             console.log(users[i].name + " is eligible to run for president.");
-//         } else {
-//             console.log(users[i].name + " is not eligible to run for president... YET!");
-//         }
-//         i++;
-//     }
-// }
+        if(currentYear - year > 35) {
+            console.log(users[i].name + " is eligible to run for president.");
+        } else {
+            console.log(users[i].name + " is not eligible to run for president... YET!");
+        }
+        i++;
+    }
+}
 
-// getBirthdates(userAccounts);
+getBirthdates(userAccounts);
 
 
