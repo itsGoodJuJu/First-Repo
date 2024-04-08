@@ -1,0 +1,7 @@
+{"body":{},"endpoint":"/todo/2","ip":"::1","level":"info","method":"DELETE","path_parameters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-08T13:55:59.089Z"}
+{"body":{},"endpoint":"/todo/2","errorCode":400,"ip":"::1","level":"info","message":"Parameters do not meet requirements","method":"DELETE","path_parameters":{"id":"2"},"query_parameters":{},"timestamp":"2024-04-08T13:55:59.094Z"}
+{"body":{"list":[{"todo":"bump"},{"todo":"set"},{"todo":true}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_parameters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-08T13:56:01.934Z"}
+{"body":{"list":[{"todo":"bump"},{"todo":"set"},{"todo":true}]},"endpoint":"/todo","errorCode":400,"ip":"::1","level":"info","message":"Body does not meet requirements","method":"POST","path_parameters":{},"query_parameters":{},"timestamp":"2024-04-08T13:56:01.939Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-08T13:56:04.112Z"}
+{"body":{},"endpoint":"/todo/2","ip":"::1","level":"info","method":"DELETE","path_parameters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-08T13:56:06.767Z"}
+{"body":{"completed":true,"todo":"dig"},"endpoint":"/todo/2","ip":"::1","level":"info","method":"PUT","path_parameters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-08T13:56:11.737Z"}

@@ -1,14 +1,16 @@
 {
-  "name": "intro",
+  "name": "todolist",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "basic to do list for keeping track of things",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js",
+    "wakeUpServer" : "nodemon server.js"
   },
   "author": "Justin Adams",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "winston": "^3.13.0"
   }
 }
