@@ -264,7 +264,7 @@ app.put('/todo/:id', (req, res) => {
 
 /*
 Endpoint: 
-    PUT: deletes an existing todo
+    DELETE: deletes an existing todo
 Path Parameter:
     id[number](required): the id of the task to be deleted from the todolist
 */

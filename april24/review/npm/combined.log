@@ -1,0 +1,42 @@
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:28:50.520Z"}
+{"body":{},"endpoint":"/idol","errorCode":400,"ip":"::1","level":"info","message":"Request body is not permitted","method":"GET","path_parameters":{},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:28:50.525Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:29:38.805Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:30:00.150Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:30:27.706Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:30:42.328Z"}
+{"body":{},"endpoint":"/idol","errorCode":400,"ip":"::1","level":"info","message":"Request body is not permitted","method":"GET","path_parameters":{},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:30:42.330Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:30:51.009Z"}
+{"body":{},"endpoint":"/idol","errorCode":400,"ip":"::1","level":"info","message":"Request body is not permitted","method":"GET","path_parameters":{},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:30:51.010Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:31:12.929Z"}
+{"body":{},"endpoint":"/idol","errorCode":400,"ip":"::1","level":"info","message":"Request body is not permitted","method":"GET","path_parameters":{},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:31:12.933Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:31:23.716Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:31:54.770Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{"id":"2"},"timestamp":"2024-04-22T18:35:34.182Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:07:13.741Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:09:58.854Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:16:37.864Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:16:44.053Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:17:12.124Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:17:13.969Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:17:30.187Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:19:29.428Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:19:30.491Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:20:06.883Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:20:08.225Z"}
+{"body":{},"endpoint":"/idol","ip":"::1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:20:10.125Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:20:30.193Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:20:35.244Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:20:56.474Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:21:18.748Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:21:37.294Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:21:44.310Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:22:29.849Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:22:31.123Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:24:35.351Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:27:36.598Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:27:46.575Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:28:09.707Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:28:18.296Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:28:22.222Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:28:34.512Z"}
+{"body":{},"endpoint":"/idol","ip":"::ffff:127.0.0.1","level":"info","method":"GET","path_parameters":{"0":"idol"},"query_parameters":{},"timestamp":"2024-04-22T19:28:37.656Z"}

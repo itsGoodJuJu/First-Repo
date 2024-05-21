@@ -1,0 +1,50 @@
+body {
+  background-color: beige;
+}
+
+.makerDiv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.carImage {
+  width: 60%;
+  height: 6%;
+  border: 1px solid rgb(128, 122, 122);
+  background-color: white;
+}
+
+.card-group {
+  flex-basis: calc(33.33% - 20px); 
+  margin-bottom: 20px; 
+}
+
+/* App.css */
+nav {
+  background-color: #333;
+  padding: 10px 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-right: 20px;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+li a:hover {
+  background-color: #555;
+}
